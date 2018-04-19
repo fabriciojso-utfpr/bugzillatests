@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 
-public class BugzillaTest {
+public class BugzillaFabricioTest {
 
     /**
      * Vc precisa identificar onde estah o chromedriver. Baixar de:
